@@ -1,7 +1,7 @@
 {
       "name": "SpamBot - RiZoeL",
       "description": "A telethon Based Span Bots With Many Cmds Fast And Stable",
-      "logo": "https://telegra.ph/file/ec832fc9107fd21edfee3.jpg",
+      "logo": "https://telegra.ph/file/afaf9fe60aec47093a00a.jpg",
       "keywords": [
         "telegram",
         "Telethon",
@@ -9,9 +9,9 @@
         "RiZoeLXSpam",
         "SpamBots"
       ],   
-  "repository": "https://github.com/RiZoeLX/SpamX",
-  "website": "https://github.com/RiZoeLX",
-  "success_url": "https://t.me/RiZoeLX",
+  "repository": "https://github.com/TOXICBRAND/SpamX",
+  "website": "https://github.com/TOXICBRAND",
+  "success_url": "https://t.me/MID_NIGHT_WORLD",
   "env": {
        "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
